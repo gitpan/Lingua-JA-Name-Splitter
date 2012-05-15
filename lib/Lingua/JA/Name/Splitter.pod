@@ -1,0 +1,32 @@
+=encoding UTF-8
+
+=head1 NAME
+
+Lingua::JA::Name::Splitter - split a Japanese name into given and family name
+
+=head1 SYNOPSIS
+
+    use Lingua::JA::Name::Splitter 'split_kanji_name';
+    my ($family, $given) = split_name ('
+
+=head1 FUNCTIONS
+
+=head2 split_name
+
+    my ($family, $given) = split_name ('渡辺純子');
+
+This splits the name using some heuristics.
+
+=head1 AUTHOR
+
+Ben Bullock, <bkb@cpan.org>
+
+=head1 COPYRIGHT & LICENCE
+
+This package and associated files are copyright (C) 2012 Ben Bullock.
+
+You can use, copy, modify and redistribute this package and associated
+files under the Perl Artistic Licence or the GNU General Public
+Licence.
+
+
