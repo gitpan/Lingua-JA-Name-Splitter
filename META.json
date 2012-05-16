@@ -1,5 +1,5 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "split a Japanese name into given and family",
    "author" : [
       "Ben Bullock <bkb@cpan.org>"
    ],
@@ -45,5 +45,5 @@
          "url" : "https://github.com/benkasminbullock/Lingua-JA-Name-Splitter"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
