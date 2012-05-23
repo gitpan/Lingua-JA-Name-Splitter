@@ -22,4 +22,4 @@ requires:
 resources:
   bugtracker: https://github.com/benkasminbullock/Lingua-JA-Name-Splitter/issues
   repository: https://github.com/benkasminbullock/Lingua-JA-Name-Splitter
-version: 0.03
+version: 0.04
