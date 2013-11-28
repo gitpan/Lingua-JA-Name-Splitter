@@ -1,0 +1,17 @@
+Revision history for perl module Lingua::JA::Name::Splitter
+
+0.06 2013-11-28
+
+* Fix bug for two-character names (family & given reversed)
+* Add "Changes" to distribution.
+
+0.05 2012-05-25
+
+0.04 2012-05-22
+
+0.03 2012-05-22
+
+0.02 2012-05-15
+
+0.01 2012-05-15
+
