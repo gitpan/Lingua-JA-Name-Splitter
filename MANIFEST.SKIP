@@ -11,6 +11,6 @@ scripts
 .*\.~.*~
 .*\.tmpl
 ^Enamdict\.pm$
-(failures|test-splitter|enamdict-counter)\.pl
+(failures|test-splitter|enamdict-counter|make-split-name-list)\.pl
 ^enamdict$
 ^split-names\.txt$

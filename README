@@ -12,7 +12,7 @@
                                            |_|                         
 
 
-This is the README for Lingua::JA::Name::Splitter version 0.06.
+This is the README for Lingua::JA::Name::Splitter version 0.07.
 
 Lingua::JA::Name::Splitter is a "module" for the Perl computer programming
 language, a library of computer code to install on a computer.  This document
@@ -55,6 +55,8 @@ using
 
 3. INSTALLATION
 
+This module requires Perl version 5.8.9 or later.
+
 To install the module from CPAN, use
 
     cpan Lingua::JA::Name::Splitter
@@ -64,10 +66,10 @@ If you have the App::cpanminus installer, you may prefer
     cpanm Lingua::JA::Name::Splitter
 
 To install the module from the source file,
-Lingua-JA-Name-Splitter-0.05.tar.gz, follow this sequence of commands:
+Lingua-JA-Name-Splitter-0.07.tar.gz, follow this sequence of commands:
 
-    tar xfz Lingua-JA-Name-Splitter-0.05.tar.gz
-    cd Lingua-JA-Name-Splitter-0.05
+    tar xfz Lingua-JA-Name-Splitter-0.07.tar.gz
+    cd Lingua-JA-Name-Splitter-0.07
     perl Makefile.PL
     make
     make install
@@ -92,6 +94,6 @@ public repository on github at
 
 -----------------------------------------------------------------------------
 
-This README was written on Thu Nov 28 17:07:25 2013.
+This README was written on Sat Feb  8 10:14:39 2014.
 
 -----------------------------------------------------------------------------
